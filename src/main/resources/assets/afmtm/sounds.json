@@ -1,0 +1,26 @@
+{
+  "double_jump": {
+    "category" : "player",
+    "sounds": [{
+      "name": "afmtm:movement/double_jump",
+      "stream": false
+    }
+    ]
+  },
+  "jump_fail": {
+    "category" : "player",
+    "sounds": [{
+      "name": "afmtm:movement/jump_fail",
+      "stream": false
+    }
+    ]
+  },
+  "jumppad_launch": {
+    "category" : "player",
+    "sounds": [{
+      "name": "afmtm:movement/jumppad_launch",
+      "stream": false
+    }
+    ]
+  }
+}
